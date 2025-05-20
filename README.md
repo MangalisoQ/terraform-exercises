@@ -1,2 +1,1 @@
-# terraform-exercises
-My awesome codebase
+Terraform, says hello Github

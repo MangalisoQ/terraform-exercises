@@ -1,1 +1,1 @@
-Terraform, says hello Github
+Hello, world! Created this repo using Terraform. I didn't know that this was possible. heheh
